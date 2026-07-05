@@ -17,6 +17,7 @@
 те же MAVLink-сообщения для одного аппарата (конфликт подписок).
 
 ### 1. [Photopanel.cs](PhotoPanel/Photopanel.cs) — вариант со вкладкой
+<img width="1280" height="662" alt="photo_2026-07-05_23-45-02" src="https://github.com/user-attachments/assets/33b94ddf-93b2-4b00-afdd-ebbc966510b9" />
 
 Добавляет вкладку **"PhotoPanel 1.2"** на экране Flight Data, внизу слева,
 рядом со стандартными вкладками Quick/Actions/Servo/... .
@@ -27,6 +28,7 @@
 и возвращает её, если Mission Planner её убрал.
 
 ### 2. [PhotoPanelWindow.cs](PhotoPanel/PhotoPanelWindow.cs) — вариант с плавающим окном
+<img width="561" height="933" alt="photo_2026-07-05_22-21-34" src="https://github.com/user-attachments/assets/f59d997b-ed92-416a-9464-370ae53b024d" />
 
 Показывает отдельное плавающее окно (`Form`) поверх Mission Planner, которое
 можно свободно перетаскивать и менять в размере. Не привязано к вкладкам
